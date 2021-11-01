@@ -26,7 +26,7 @@ following stages of Machine Learning Project Life Cycle –
 - Commands to run for data Ingestion:
 - Used free new API keys from https://mediastack.com/ and https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/
 
-### 2,3.Data Preparation and Model training:
+### 2&3.Data Preparation and Model training:
 
 - Run following command: python data.py
 - This will create a pkl file(newsclassifier_model.pkl) and topics.csv file
@@ -34,4 +34,6 @@ following stages of Machine Learning Project Life Cycle –
 ### 4.Model Deployment:
 
 - Run the docker file for web app view and predection: docker-compose up
+
+All the commands are present in commands file
 
