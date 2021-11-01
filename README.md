@@ -37,3 +37,8 @@ following stages of Machine Learning Project Life Cycle –
 
 All the commands are present in commands file
 
+### 5.Model Prediction:
+Here is the our final application
+
+![image](https://user-images.githubusercontent.com/86909953/139672660-4b399988-1ef6-4cc3-abbf-e35d69dc198c.png)
+
